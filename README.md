@@ -1,2 +1,2 @@
 # ProyectoEjemplo
-Repositorio d ejemplo
+Mi repositorio de practica ejemplo 1
