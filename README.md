@@ -1,2 +1,5 @@
 # ProyectoEjemplo
+
 Mi repositorio de practica ejemplo 1
+
+Autor: Enrique Ceron
